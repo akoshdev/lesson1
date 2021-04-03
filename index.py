@@ -13,6 +13,13 @@
 #     if age % 5 == 0:
 #         print ('Pozdravlaym u vas v etom godu yubiley!!!')
 
-
-
+# number = 17
+# value = int(input('Vvedite chisel ot 1 do 100  ' ))
+# if value == number:
+#     print ('Vi ugadali')
+# else: 
+#     if value > number:
+#         print ('Nujno menshe')
+#     else:
+#         print ('Nujno bolshe')    
  
