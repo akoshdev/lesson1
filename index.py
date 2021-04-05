@@ -23,15 +23,12 @@
 #     else:
 #         print ('Nujno bolshe')    
  
+ # Kridit hisoblash uchun:
  
  
- 
-#  muddat = int(input('Kridit muddatini kiriting: '))
-#  print (muddat)
-#  mud = muddat
-#  summa = int(input('Kridit summasini kiriting: '))
-#  sam = summa 
-#  foiz = int(input('Kridit foizini kiriting: '))
-#  foi = foiz
-#  qiymat = sam / mud * foi
-#  print (qiymat)
+# age = int(input('Kridit muddatini kiriting: '))
+# summa = int(input('Kridit summasini kiriting: '))
+# foiz = int(input('Kridit foizini kiriting: '))
+# qiymat = summa / age * foiz
+# qiyymat = qiymat / 12
+# print ('Oylik tulov summasi:',qiyymat)
