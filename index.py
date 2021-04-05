@@ -23,3 +23,15 @@
 #     else:
 #         print ('Nujno bolshe')    
  
+ 
+ 
+ 
+#  muddat = int(input('Kridit muddatini kiriting: '))
+#  print (muddat)
+#  mud = muddat
+#  summa = int(input('Kridit summasini kiriting: '))
+#  sam = summa 
+#  foiz = int(input('Kridit foizini kiriting: '))
+#  foi = foiz
+#  qiymat = sam / mud * foi
+#  print (qiymat)
