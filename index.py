@@ -32,3 +32,49 @@
 # qiymat = summa / age * foiz
 # qiyymat = qiymat / 12
 # print ('Oylik tulov summasi:',qiyymat)
+
+# name = 'Gvido'
+# name = input('Kto sozdatel Python: ')
+#
+# while name != 'Gvido':
+#     print ('Ne verno')
+#     name = input('Kto sozdatel Python: ')
+#
+# print ('Verno')
+
+
+# name = None
+#
+# while name != 'Gvido':
+#     name = input('Kto sozdatel Python: ')
+#     print('Ne verno')
+#
+# print ('Verno')
+
+
+# name = None
+#
+# while name != 'Gvido':
+#     name = input('Kto sozdatel Python: ')
+#     if name == 'Gvido':
+#         break
+#     print('Ne verno')
+#
+# print ('Verno')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
