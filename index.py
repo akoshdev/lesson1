@@ -62,10 +62,18 @@
 #
 # print ('Verno')
 
+# n = int(input('Vvedite lyuboe chislo: '))
+# sum = n + 2
+# print (sum)
 
 
-
-
+# while True:
+#     number = int(input('Vvedite chislo: '))
+#     if number > 0 and number <= 10:
+#         print (number**2)
+#         break
+#     else:
+#         print ('Vvedite chislo ne menshe 10 i bolshe 0')
 
 
 
