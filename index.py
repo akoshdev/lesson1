@@ -22,10 +22,10 @@
 #         print ('Nujno menshe')
 #     else:
 #         print ('Nujno bolshe')    
- 
- # Kridit hisoblash uchun:
- 
- 
+
+# Kridit hisoblash uchun:
+
+
 # age = int(input('Kridit muddatini kiriting: '))
 # summa = int(input('Kridit summasini kiriting: '))
 # foiz = int(input('Kridit foizini kiriting: '))
@@ -76,13 +76,13 @@
 #         print ('Vvedite chislo ne menshe 10 i bolshe 0')
 
 
-
-
-
-
-
-
-
-
-
-
+# top5 = 'Pervie 5 mest na sorevnavaniyax: 1. petrov 2. ivanov 3. siydirov 4. orlov 5. sokolov'
+#
+# start = top5.find('1')
+# end = top5.find('4')
+#
+# top3 = top5[start:end]
+#
+# result = 'Pozdravlaym {} s uspexom!'.format(top3.upper())
+#
+# print(result)
