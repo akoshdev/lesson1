@@ -92,40 +92,62 @@
 # # yuqlama = input('Uquvchi darsdami: ')
 
 
+#
+#
+# f.close()
 
 
+# ismm = []
+# for i in f:
+#     # print(i)
+#     ismm.append(i)
+#
+#
+# print (ismm)
+
+# handle = open("text.txt", "r")
+# data = handle.read()
+# print(data)
+# handle.close()
+
+
+
+# f = open('text.txt', 'r+')
+# # # print(f.read())
+# #
 # ismlar = []
+# #
+# for i in f:
+# #
+# #     # ismlar.append(i)
+# #     print(i)
+#     p = i.replace('\n', '')
+#     a = i.translate({ord('\n'): None})
+#     ismlar.append(a)
+# # print(ismlar)
+#
+# #
+# # # ismlar = []
 # yuqlama = []
 #
 # i = 0
 # while i < 5:
-#     # if i == 5:
-#     #     break
-#     ism = input('Uquvchi ismini kiriting: ')
-#     ismlar.append(ism)
-#     yuq = input('Uquvchi darsdami: ')
-#     yuqlama.append(yuq)
-#     i +=1
-# for j in range(len(ismlar)):
-#     print('{} darsda {}'. format(ismlar[j],yuqlama[j]))
+#     if i == 5:
+#         break
+#     # ism = input('Uquvchi ismini kiriting: ')
+#     # ismlar.append(ism)
 #
-
+#     yuq = input('{} darsdami '.format(ismlar[i]))
+#     yuqlama.append(yuq)
+#     i += 1
+#     g = open('text.txt','w')
+#
+# for j in range(len(ismlar)):
+#     # print('{} darsda {}'.format(ismlar[j],yuqlama[j]))
+#     g.write('{} darsda {}'.format(ismlar[j],yuqlama[j],'\n'))
+# f.close()
+# print('Fayl ok')
+#     print(j)
 # for i in range(0,10):
 #     print(i)
 #
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
